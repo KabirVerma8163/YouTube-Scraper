@@ -1,0 +1,25 @@
+# OS generated files
+.DS_Store
+
+# IDE specific files
+.idea/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual environment
+venv/
+
+# Test and cache
+pytest.ini
+.pytest_cache/
+
+# Auth files (Be careful with these!)
+auth.json
+auth2.json
+
+# HTML files
+*.html
